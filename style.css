@@ -2,3 +2,29 @@ img {
   width:50%;
   height: 50%
 }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  background-color: blue; 
+}
+li {
+  display: inline;
+}
+
+li:hover {
+  background-color: yellow;
+ 
+  h1, h2 {
+    color:green;
+  }
+  
+  #navbarlink {
+   font-size: 20px; 
+  }
+  
+  .tagline {
+    position: relative;
+    left: 25%;
+  }
+    
